@@ -1,0 +1,6 @@
+1. added the cbam_block file from script code in nn/modules
+2. added in nn/tasks.py so it uses cbam from the cbam_block
+3. added eiou loss lines in utils/loss.py
+4. added eiou loss formula in utils/metrics.py
+5. yaml file used with nc 7 and cbam in heads added
+6. pretrained model also loaded
