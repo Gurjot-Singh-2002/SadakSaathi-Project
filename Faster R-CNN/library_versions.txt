@@ -1,0 +1,10 @@
+torch==2.4.0a0+f70bd71a48.nv24.06
+torchvision==0.19.0a0
+CUDA available: True (12.5)
+Pillow==10.3.0
+matplotlib==3.9.0
+numpy==1.24.4
+pandas==2.2.1
+opencv-python==4.7.0
+scikit-learn==1.5.0
+seaborn==0.13.2

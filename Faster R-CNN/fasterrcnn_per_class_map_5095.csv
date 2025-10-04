@@ -1,0 +1,8 @@
+Class,mAP@0.5:0.95
+Car,0.8384
+Van,0.7645
+Truck,0.8258
+Pedestrian,0.5787
+Person_sitting,0.3765
+Cyclist,0.6529
+Tram,0.7268

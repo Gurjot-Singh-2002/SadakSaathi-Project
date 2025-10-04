@@ -1,0 +1,8 @@
+Class,AP@0.5
+Car,0.9666
+Van,0.9209
+Truck,0.943
+Pedestrian,0.8454
+Person_sitting,0.5167
+Cyclist,0.8789
+Tram,0.9445
