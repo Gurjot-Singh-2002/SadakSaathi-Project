@@ -1,0 +1,9 @@
+,Car,Van,Truck,Pedestrian,Person_sitting,Cyclist,Tram,Background
+Car,5420,0,0,0,0,0,0,260
+Van,0,518,0,0,0,0,0,45
+Truck,0,0,175,0,0,0,0,23
+Pedestrian,0,0,0,726,0,0,0,170
+Person_sitting,0,0,0,0,21,0,0,9
+Cyclist,0,0,0,0,0,251,0,55
+Tram,0,0,0,0,0,0,95,4
+Background,7271,1569,264,5788,835,1132,246,0

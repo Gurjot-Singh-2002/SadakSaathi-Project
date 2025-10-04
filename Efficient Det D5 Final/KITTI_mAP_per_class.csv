@@ -1,0 +1,9 @@
+Class,mAP@0.5,mAP@0.5:0.95
+Car,92.17,69.61
+Van,86.69,65.89
+Truck,84.06,70.35
+Pedestrian,65.5,34.17
+Person_sitting,41.12,18.74
+Cyclist,73.58,50.19
+Tram,88.85,67.81
+Overall,75.99,53.82
