@@ -1,0 +1,9 @@
+Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+PyTorch version: 2.5.1+cu121
+CUDA version: 12.1
+cuDNN version: 90100
+Torchvision version: 0.20.1+cu121
+Ultralytics YOLO version: 8.3.170
+NumPy version: 1.26.4
+OpenCV version: 4.10.0
+Pandas version: 2.2.2
