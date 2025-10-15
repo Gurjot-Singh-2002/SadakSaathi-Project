@@ -1,0 +1,2 @@
+Model,Image_Size,Params_(M),Model_Size_(MB),Inference_Time_(ms),Inference_FPS,Latency_(ms),Latency_FPS
+best,1280,3.01,6.01,15.93,62.76,9.81,101.91
