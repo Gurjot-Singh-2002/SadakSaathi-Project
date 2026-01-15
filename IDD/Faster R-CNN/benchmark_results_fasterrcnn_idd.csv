@@ -1,0 +1,2 @@
+Model,GPU,Batch_Size,Image_Size,Params_(M),Model_Size_(MB),Inference_Time_(ms),Inference_FPS,Latency_(ms),Latency_FPS
+Faster R-CNN ResNet50-FPN (IDD),NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,800x1333,41.35,158.25,17.16,58.29,17.28,57.88
