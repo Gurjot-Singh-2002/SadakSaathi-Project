@@ -1,0 +1,6 @@
+Model,GPU,Batch_Size,Image_Size,Params_(M),Model_Size_(MB),Inference_Time_(ms),Inference_FPS,Latency_(ms),Latency_FPS
+efficientdet-d5_best,NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,640x640,33.45,129.05,23.3,42.91,99.33,10.07
+efficientdet-d5_best,NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,640x640,33.45,129.05,23.32,42.88,98.56,10.15
+efficientdet-d5_best,NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,640x640,33.45,129.05,23.86,41.91,92.46,10.82
+efficientdet-d5_best,NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,640x640,33.45,129.05,23.25,43.01,85.48,11.7
+efficientdet-d5_best,NVIDIA H100 80GB HBM3 MIG 3g.40gb,1,640x640,33.45,129.05,23.33,42.86,80.04,12.49
